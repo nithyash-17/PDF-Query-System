@@ -1,5 +1,8 @@
 # PDF Ingestion & Query App with Hugging Face
 
+
+[Watch Demo](https://github.com/nithyash-17/PDF-Query-System/blob/main/demo.mp4)
+
 This project implements a full-stack application for ingesting PDF files, processing their content, and providing a question-answering interface. The backend is built with Node.js and Express, which orchestrates a series of Python scripts to:
 
 - **Extract text** from PDF files using PyPDF2.
